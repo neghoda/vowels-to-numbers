@@ -1,4 +1,4 @@
-//Package vstons encodes/decodes vowels with numbers
+//Package vwlstonums encodes/decodes vowels with numbers
 //  'a': '1'
 // 	'e': '2'
 // 	'i': '3'
