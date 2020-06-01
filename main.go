@@ -8,8 +8,6 @@ import (
 	"github.com/neghoda/vowels-to-numbers/vwlstonums"
 )
 
-const separators = ",;.-"
-
 func main() {
 	stdin := bufio.NewReader(os.Stdin)
 	fmt.Println("Enter text: ")
