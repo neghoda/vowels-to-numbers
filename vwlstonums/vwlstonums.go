@@ -50,7 +50,7 @@ func Encode(s string) string {
 	return res
 }
 
-// Decode replaces vowels with numbers
+// Decode replaces numbers with vowels
 //  '1': 'a'
 // 	'2': 'e'
 // 	'3': 'i'
